@@ -1,0 +1,32 @@
+body {
+
+    font-family: 'Style Script', cursive;
+    background: white;
+    }
+#test{
+    height:300px;
+    width:300px;
+}
+
+.text_images_and_results {
+    background: rgb(245, 185, 194);
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 18px black;
+    width:800px;
+    }
+
+.final_result{
+
+    background: rgb(245, 185, 194);
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px solid white;
+    border-radius:20px;
+    box-shadow:5px 5px 18px black;
+    width:800px;
+
+
+}
